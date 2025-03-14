@@ -12,5 +12,5 @@ pip install pipenv
 pipenv install --dev
 ```
 
-You can now run the notebook.
+You can now run the notebook using the virtual environment.
 
