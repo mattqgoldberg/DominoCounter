@@ -14,3 +14,6 @@ pipenv install --dev
 
 You can now run the notebook using the virtual environment.
 
+# Youtube Video Demo
+
+[Youtube Video](https://www.youtube.com/watch?v=QUDAIk1XhLc)
